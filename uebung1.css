@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+body{
+    background-color: #6666ce;
+    font-family: 'Bangers', cursive;
+    font-size: larger;
+}
+
+.card{
+    background-color: #fdd701;
+    border: 8px groove silver;
+    margin: 3rem 1rem 3rem 2rem;
+    width: 21rem;
+    height: 21rem;
+}
+
+img{
+    max-height: 500px;
+}
+
+.nav{
+    background-color: #6666ce;
+    color: white;
+}
+
+a.active{
+    color: #fdd701;
+}
+
+.row{
+    max-width:100%;
+}
